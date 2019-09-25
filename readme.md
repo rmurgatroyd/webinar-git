@@ -1,6 +1,6 @@
 # My Project
 
-This is my amazing Project
+This is my amazing Project 
 
 ## Set up
 
@@ -8,4 +8,4 @@ This is my amazing Project
 
 ## Live demo
 
-This is available
+watch on youtube now!!!
