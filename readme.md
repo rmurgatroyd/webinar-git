@@ -8,4 +8,4 @@ This is my amazing Project
 
 ## Live demo
 
-This is available at
+This is available
